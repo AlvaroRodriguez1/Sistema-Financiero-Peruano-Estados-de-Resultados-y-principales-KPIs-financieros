@@ -1,5 +1,5 @@
 # Sistema-Financiero-Peruano-Estados-de-Resultados-y-principales-KPIs-financieros
-Automated extraction of data from the Income Statements and key financial indicators of the entities of the Peruvian Financial System, using programming in Visual Basic (source: SBS). It also includes a simple Power BI dashboard for financial benchmarking.
+
 Descripción:
 Spanish version:
 Mediante programación con macros (Visual Basic), el archivo Excel tiene como objetivo automatizar la extracción de las principales partidas del Estado de Resultados y de los KPIs más relevantes de las entidades del Sistema Financiero Peruano, utilizando como fuente la página web de la Superintendencia de Banca, Seguros y AFP (SBS). Además, incluye una propuesta de P&L con enfoque de control de gestión, diseñada para proporcionar un breve benchmarking financiero de las instituciones seleccionadas por el usuario. Por último, se ha estructurado un dashboard simple en Power BI que replica esta funcionalidad, permitiendo al usuario realizar el mismo proceso de benchmarking en esta plataforma.
