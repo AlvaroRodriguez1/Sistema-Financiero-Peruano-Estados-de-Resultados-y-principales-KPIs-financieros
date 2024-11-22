@@ -1,4 +1,0 @@
-Este excel tiene información desde enero 2021 a agosto 2024. Si no requieres data histórica (desde 2020 hacia atrás), no es necesario que optes por la opción "Año entero".
-Problemas comunes en macros extensas:
-  1) hay ocasiones en que la macro puede arrojar un mensaje de error cuya única opción es "Aceptar". Se deberá dar clic en "Aceptar" y seguirá ejecutándose sin problema.
-  2) En caso salga el mensaje de "depurar", denle clic a esta opción y continúen ejecutando el procedimiento (apretando F5).
